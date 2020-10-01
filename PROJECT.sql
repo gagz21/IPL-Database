@@ -125,9 +125,9 @@ VALUES
 	('Feroz Shah Kotla','New Delhi','India'),
 	('Green Park','New Delhi','India'),
 	('Holkar Cricket Stadium','Indore','India'),
-	('M Chinnaswamy Stadium','Bangalore',''),
+	('M Chinnaswamy Stadium','Bangalore','India'),
 	('Maharashtra Cricket Association Stadium','Pune','India'),
-	('Punjab Cricket Association IS Bindra Stadium', 'Mohali', ''),
+	('Punjab Cricket Association IS Bindra Stadium', 'Mohali', 'India'),
 	('Rajiv Gandhi International Stadium','Hyderabad','India'),
 	('Saurashtra Cricket Association Stadium','Rajkot','India'),
 	('Wankhede Stadium','Mumbai','India')
